@@ -1,0 +1,17 @@
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\ref\ServiceLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\NaseerM\source\repos\EcommerceBackend\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete

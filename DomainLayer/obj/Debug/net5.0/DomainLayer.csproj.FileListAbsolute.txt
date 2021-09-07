@@ -1,0 +1,12 @@
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\NaseerM\source\repos\EcommerceBackend\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
